@@ -1,3 +1,14 @@
+/* Light Mode (default) */
+body.light-mode {
+    background-color: white;
+    color: black;
+}
+
+/* Dark Mode */
+body.dark-mode {
+    background-color: black;
+    color: white;
+}
 /* Reset some basic styling */
 * {
     margin: 0;
