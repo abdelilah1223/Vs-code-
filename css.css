@@ -1,0 +1,54 @@
+#img{
+    width: 40px;
+    height: 40px;
+    border-radius:50% ;
+    border: 1px solid red ;
+}
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.s{
+    background-color: gray;
+    padding: 10px;
+}
+textarea{
+    width: 98%;
+    height: 50vh;
+    margin: 10px;
+
+}
+.a{
+    text-align: center;
+}
+#divb{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 10px;
+    
+}
+#remove{
+    width: 30%;
+    padding: 15px;
+    background-color: red;
+    border-radius: 10px;
+    border: 0px;
+}
+#play{
+    width: 30%;
+    padding: 15px;
+    background-color: green;
+    border-radius: 10px;
+    border: 0px;
+}
+#reload{
+    width: 30%;
+    padding: 15px;
+    background-color: rgb(80, 59, 221);
+    border-radius: 10px;
+    border: 0px;
+    
+}
+
